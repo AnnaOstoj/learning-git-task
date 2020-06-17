@@ -11,4 +11,5 @@ print(f"W sklepie kupuję {sum_of_products} produktów")
 print("Dodatkowy test")   
 print("Jeszcze jeden dodatkowy test")
 print("commit 1")
-
+for i in range(2)
+  print(i)
