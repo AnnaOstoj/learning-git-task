@@ -8,8 +8,7 @@ for item in lista_zakupow:
     sum_of_products +=len(lista_zakupow.get(item))
 
 print(f"W sklepie kupuję {sum_of_products} produktów")     
-print("Dodatkowy test")   
-print("Jeszcze jeden dodatkowy test")
-print("commit 1")
-for i in range(2)
-  print(i)
+print("la la la")
+for i in (100):
+    if i % 3 == 0:
+        print(i)
