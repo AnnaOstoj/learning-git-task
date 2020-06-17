@@ -9,3 +9,4 @@ for item in lista_zakupow:
 
 print(f"W sklepie kupuję {sum_of_products} produktów")     
 print("Dodatkowy test")   
+print("Jeszcze jeden dodatkowy test")
