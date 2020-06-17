@@ -7,4 +7,5 @@ for item in lista_zakupow:
     print(f"Idę do {str.capitalize(item)}, żeby kupić{produkty}")
     sum_of_products +=len(lista_zakupow.get(item))
 
-print(f"W sklepie kupuję {sum_of_products} produktów")        
+print(f"W sklepie kupuję {sum_of_products} produktów")     
+print("Dodatkowy test")   
